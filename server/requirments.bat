@@ -1,0 +1,10 @@
+pip install pillow
+pip install numpy
+pip install wxpython
+pip uninstall crypto
+pip uninstall pycrylt
+pip install pycryptodome
+pip install mouse
+pip install pyautogui
+pip install netifaces
+pip install datetime
